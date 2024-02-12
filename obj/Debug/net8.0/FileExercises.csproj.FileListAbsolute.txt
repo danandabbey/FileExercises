@@ -1,0 +1,14 @@
+/home/daniel/RiderProjects/FileExercises/FileExercises/bin/Debug/net8.0/FileExercises
+/home/daniel/RiderProjects/FileExercises/FileExercises/bin/Debug/net8.0/FileExercises.deps.json
+/home/daniel/RiderProjects/FileExercises/FileExercises/bin/Debug/net8.0/FileExercises.runtimeconfig.json
+/home/daniel/RiderProjects/FileExercises/FileExercises/bin/Debug/net8.0/FileExercises.dll
+/home/daniel/RiderProjects/FileExercises/FileExercises/bin/Debug/net8.0/FileExercises.pdb
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/FileExercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/FileExercises.AssemblyInfoInputs.cache
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/FileExercises.AssemblyInfo.cs
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/FileExercises.csproj.CoreCompileInputs.cache
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/FileExercises.dll
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/refint/FileExercises.dll
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/FileExercises.pdb
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/FileExercises.genruntimeconfig.cache
+/home/daniel/RiderProjects/FileExercises/FileExercises/obj/Debug/net8.0/ref/FileExercises.dll
